@@ -1,6 +1,6 @@
-custom mini compiler: 
+adsad
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Auxiliary\Build\vcvars64.bat"
 
-then C:\Users\Clem\Desktop\restart
+then C:\Users\YourPathHere\restart
 then build.bat

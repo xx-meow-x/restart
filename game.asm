@@ -349,7 +349,7 @@ warps dd 0,123,377,4,297,294
       dd 1,273,273,0,235,176
       dd 1,142,16,2,65,112
       dd 2,7,220,4,171,161
-      dd 2,42,218,5,127,130
+      dd 2,42,218,3,68,182
       dd 2,212,100,6,276,246
       dd 2,146,251,0,235,176
       dd 2,60,112,1,148,16
@@ -364,6 +364,7 @@ warps dd 0,123,377,4,297,294
       dd 6,276,251,0,235,176
       dd 6,277,116,1,27,272
       dd 6,191,268,2,217,100
+      dd 3,64,182,2,46,218
 
 tileBases dq OFFSET tileData, OFFSET tileData+3840000, OFFSET tileData+6000000, OFFSET tileData+7622400
           dq OFFSET tileData+8742144, OFFSET tileData+11199744, OFFSET tileData+13359744, OFFSET tileData+15519744
